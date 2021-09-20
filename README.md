@@ -13,7 +13,7 @@ An active deployment can be found at:
 ## Database deisgn
 ### Schemas
 1. User - username, user_id, password
-2. Notes - user_id, note_id, title, content
+2. Notes - user_id, note_id, title, content, date and labels.
 
 ### Operations
 1. Users- Register new user, Fetch and verfiy existing user
